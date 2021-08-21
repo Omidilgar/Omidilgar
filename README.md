@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Omidilgar
 - 👀 I’m interested in architecetural apps
 - 🌱 I’m currently learning architecture
-- 💞️ I’m looking to collaborate on ...
 - 📫 u can reach me on my instagram omid.ilgar 
 
 <!---
